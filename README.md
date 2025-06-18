@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## 👤 Profil Mahasiswa
 
@@ -607,3 +608,6 @@ Buka file `app/Views/artikel/form_add.php`, lalu:
 - Selalu simpan nama file ke database untuk ditampilkan kembali.
 
 ---
+=======
+# lab11_ci4
+>>>>>>> bbb069a5ddc6847a4b69f5fd54c401e36b226789
